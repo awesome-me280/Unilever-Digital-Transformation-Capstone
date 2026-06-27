@@ -22,6 +22,25 @@ This project addresses these challenges using AI-powered digital transformation 
 
 ---
 
+## My Contribution
+
+This was a group capstone project completed as part of the Master's program. My primary responsibility in the project was designing the **end-to-end solution architecture** for the digital transformation of Magnum Ice Cream.
+
+Key contributions include:
+
+- Designed the overall **future-state digital architecture** for the business transformation
+- Developed the **data flow and system integration framework** across business functions such as demand forecasting, supply chain, and customer analytics
+- Identified and structured the key architecture layers including:
+  - Data Sources Layer  
+  - Cloud Storage Layer  
+  - AI/ML Processing Layer  
+  - Business Intelligence & Visualization Layer  
+  - Application Layer
+- Ensured alignment of the architecture with AI-driven use cases such as predictive demand forecasting and customer personalization
+- Created the final **architecture diagram** used in the project report and presentation
+
+---
+
 ## Objectives
 
 - Analyze current operational challenges in Magnum Ice Cream’s business model  
