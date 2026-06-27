@@ -30,7 +30,7 @@ Key contributions include:
 
 - Designed the overall **future-state digital architecture** for the business transformation
 - Developed the **data flow and system integration framework** across business functions such as demand forecasting, supply chain, and customer analytics
-- Identified and structured the key architecture layers including:
+- Identified and structured the key architecture layers, including:
   - Data Sources Layer  
   - Cloud Storage Layer  
   - AI/ML Processing Layer  
